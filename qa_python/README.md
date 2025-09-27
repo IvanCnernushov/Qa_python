@@ -21,4 +21,4 @@ tests.py::TestBooksCollector::test_get_books_for_children PASSED         [ 63%]
 tests.py::TestBooksCollector::test_get_full_books_genre_dictionary PASSED [ 72%]
 tests.py::TestBooksCollector::test_add_to_favorites PASSED               [ 81%]
 tests.py::TestBooksCollector::test_remove_from_favorites PASSED          [ 90%]
-tests.py::TestBooksCollector::test_get_favorites_list PASSED             [100%]
+tests.py::TestBooksCollector::test_get_favorites_list PASSED             [100%)
