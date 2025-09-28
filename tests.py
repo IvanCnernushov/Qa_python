@@ -173,7 +173,7 @@ class TestBooksCollector:
         assert 'Гарри Поттер' in collector.get_list_of_favorites_books()
         assert len(collector.get_list_of_favorites_books()) == 1
 
-    # 11. Тест получения списка избранных книг/
+    # 11. Тест получения списка избранных книг.
     def test_get_favorites_list(self):
         collector = BooksCollector()
 
