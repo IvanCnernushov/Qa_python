@@ -1,6 +1,10 @@
 __pycache__/
 *.pyc
 .idea/
+.pytest_cache/
+*.log
+venv/
+.DS_Store
 qa_python/
 countDown/
 resources/
