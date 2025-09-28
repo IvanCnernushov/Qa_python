@@ -22,3 +22,17 @@ tests.py::TestBooksCollector::test_get_full_books_genre_dictionary PASSED [ 72%]
 tests.py::TestBooksCollector::test_add_to_favorites PASSED               [ 81%]
 tests.py::TestBooksCollector::test_remove_from_favorites PASSED          [ 90%]
 tests.py::TestBooksCollector::test_get_favorites_list PASSED             [100%)
+
+## ✅ Статус проекта
+Проект завершен и готов к проверке
+
+### 🧪 Тестирование
+Все тесты проходят успешно:
+```bash
+pytest tests.py -v
+```
+
+### 📁 Структура проекта
+-  - основной класс BooksCollector
+-  - комплексные тесты на pytest
+-  - настройки для Git
