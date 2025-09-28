@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.idea/
+qa_python/
+countDown/
+resources/
